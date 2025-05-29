@@ -31,19 +31,25 @@ This repository contains a **printable, categorized, and interview-ready list** 
 
 ## ✅ How to Use
 
-1. **Print it out** – For daily revision and strike-off tracking  
-2. **Use as Notion template** – For organized digital progress  
-3. **Filter by difficulty** – Start easy and ramp up  
-4. **Write Approach in last column** – Write Approach to remember in future the concept used
+1. **Print it out** - For daily revision and strike-off tracking  
+2. **Use as Notion template** - For organized digital progress  
+3. **Filter by difficulty** - Start easy and ramp up  
+4. **Write Approach in last column** - Write Approach to remember in future the concept used
 
 ---
 
 ## 📚 Credits
 
-Inspired by the legendary [NeetCode](https://neetcode.io/) roadmap — a community favorite for FAANG-level interview preparation.
+Inspired by the legendary [NeetCode](https://neetcode.io/) roadmap - a community favorite for FAANG-level interview preparation.
 
 ---
 
 ## ⭐️ Star This Repo
 
 If you find this useful, consider giving it a ⭐️ to help others discover it too!
+
+---
+
+- “NeetCode 150 with Leetcode question number”
+- “Printable NeetCode 150 list”
+- “NeetCode categorized list with IDs”
